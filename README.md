@@ -260,10 +260,3 @@ The deterministic resolver strips legal suffixes, normalizes diacritics and whit
 | `Acme Robotics LLC` | **Acme Robotics** | 0.80 | DeterministicRuleCleaned |
 
 ---
-
-## Submission Artifacts
-
-1. **Google Sheets Deliverable**: Import `output/pipeline_output.xlsx` (or the 6 CSV files in `output/`) into a Google Sheet and share as public viewable.
-2. **GitHub Repository**: Push this directory to your public GitHub profile.
-3. **Architecture Document**: `architecture.pdf` (compiled to exactly 3 pages via ReportLab).
-4. **Loom Walkthrough Video**: Follow the complete script in [`loom_script.md`](loom_script.md).
